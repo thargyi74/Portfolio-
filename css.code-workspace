@@ -1,0 +1,25 @@
+{
+  "folders": [
+	{
+		"name": "css",
+		"path": "../-portfolio/css"
+	},
+	{
+		"name": "img",
+		"path": "../-portfolio/img"
+	},
+	{
+		"name": "js",
+		"path": "../-portfolio/js"
+	},
+	{
+		"name": "node_modules",
+		"path": "../-portfolio/node_modules"
+	},
+	{
+		"name": "Portfolio-",
+		"path": "."
+	}
+],
+  "settings": {}
+}
